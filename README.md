@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rajpatelniraj/rajpatelniraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!MasterHead](https://static.vecteezy.com/system/resources/thumbnails/000/677/302/small/abstract-technology-banner-background.jpg)
 <h1 align="center">Hi 👋, I'm Niraj Kumar</h1>
 <h3 align="center">I'm interested in Full Stack Web-Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1656434633~exp=1656435233~hmac=a4aee8926e16b8cbd10ba6804ccd049500fa6a2441ba33a03c14d80e5192b1c2">
