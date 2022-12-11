@@ -16,7 +16,7 @@
 
 - 👨‍💻 Contact Me [https://www.instagram.com/rajpatelniraj88/?hl=en](https://www.instagram.com/rajpatelniraj88/?hl=en)
 
-- 📝Linkedin [https://www.linkedin.com/in/rajpatelniraj/](https://www.linkedin.com/in/rajpatelniraj/)
+- 📝Linkedin [https://www.linkedin.com/in/nirajkumarpatel/](https://www.linkedin.com/in/nirajkumarpatel/)
 
 - 💬 Ask me about **Self-Motivated**
 
