@@ -1,7 +1,8 @@
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
-![Full-Stack-Development](https://user-images.githubusercontent.com/108226943/227862335-7e851b70-a1dc-412e-9971-2d4dc9b549ed.jpg)
+![Jacksonville-Banner-mern-stack-training](https://user-images.githubusercontent.com/108226943/227862636-58e6e7e7-eae7-4e7c-a793-ded68f6fb32f.jpg)
+
 
 ###
 
