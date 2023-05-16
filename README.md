@@ -1,13 +1,9 @@
 
-<h1 align="center">Hey 👋 What's up?</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niraj Kumar
+===================================================================================================================================
 
-![Jacksonville-Banner-mern-stack-training](https://user-images.githubusercontent.com/108226943/227862636-58e6e7e7-eae7-4e7c-a793-ded68f6fb32f.jpg)
-
-
-###
-
-<h3 align="left">My name is Niraj Kumar and I'm a Full Stack Web-Developer.</h3>
-
+Full Stack Web Developer
+------------------------
 ###
 
 <h1 align="left">About me</h1>
